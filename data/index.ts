@@ -50,7 +50,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently working on building an E-Commerce App",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,66 +73,66 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Event Management Platform",
+    title: "Event Management App",
     des: "Explore our event platform management for easy management of your events and tickets",
-    img: "/p1.svg",
+    img: "/p1.JPG",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://event-hub-blush.vercel.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Hotel Booking App",
+    des: "Simplify your booking experience with hotel booking app. Seamlessly travel and connect with colleagues and friends.",
+    img: "/p2.JPG",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://mern-booking-app-ott3.onrender.com/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Food Ordering App",
+    des: "Simplify and enjoy your food ordering experience with food ordering app with for your tasty and enjoyable experience.",
+    img: "/p3.JPG",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://mern-food-ordering-app-frontend-0h1x.onrender.com/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Home Workout Fitness App",
+    des: "Simplify your workout experience with our workout app to take you step by step and follow you program.",
+    img: "/p4.JPG",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://home-workout-app.onrender.com/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Motseki is the ideal partner.",
     name: "John Smith",
     title: "Director of Finstack Technologies",
   },
   {
     quote:
-    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Motseki is the ideal partner.",
     name: "John Smith",
     title: "Director of Finstack Technologies",
   },
   {
     quote:
-    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Motseki is the ideal partner.",
     name: "John Smith",
     title: "Director of Finstack Technologies",
   },
   {
     quote:
-    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Motseki is the ideal partner.",
     name: "John Smith",
     title: "Director of Finstack Technologies",
   },
   {
     quote:
-    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    "Collaborating with Lebohang Motseki was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lebohang Motseki's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Motseki is the ideal partner.",
     name: "John Smith",
     title: "Director of Finstack Technologies",
   },
